@@ -62,5 +62,9 @@ public class MyStudentMgmtAppApplication implements CommandLineRunner{
 
 
 		studentService.saveStudent(student);
+
+
+		// update a student name
+		studentService.updateStudentName(1L,"Mussie");
 	}
 }

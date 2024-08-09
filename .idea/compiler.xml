@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MyStudentMgmtApp" />
         <module name="MyStudentRecordsMgmtApp" />
+        <module name="eRegistrarWebAPI" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="MyStudentMgmtApp" options="-parameters" />
       <module name="MyStudentRecordsMgmtApp" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="eRegistrarWebAPI" options="-parameters" />
     </option>
   </component>
 </project>
